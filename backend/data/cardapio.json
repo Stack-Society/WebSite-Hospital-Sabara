@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "imagem": "/arroz-feijao-carne.png",
+        "refeicao": "Arroz, feijão e carne",
+        "descricao": "Prato típico brasileiro"
+    },
+    {
+        "id": 2,
+        "imagem": "/arroz-feijao-salada.png",
+        "refeicao": "Arroz, feijão e salada",
+        "descricao": "Uma variação do prato típico brasileiro, mais saudável e menos gordurosa"
+    },
+    {
+        "id": 3,
+        "imagem": "/arroz-frango-batata.png",
+        "refeicao": "Arroz, frango cozido e purê de batata",
+        "descricao": "Uma refeição leve e balanceada, ideal para uma melhora mais rápida."
+    }
+]
